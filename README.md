@@ -1,6 +1,8 @@
 # Notedly
 **A Note Taking Website**
 Welcome to the Note Taking Website! This web-based application allows users to create, organize, and manage their notes efficiently. Built with HTML, CSS, and JavaScript, it provides a simple and effective way to keep track of your thoughts, ideas, and to-do lists.
+![Notedly](https://github.com/eaclix/Notedly/assets/129897503/c18bbba0-16fd-4cad-968b-082f79808279)
+
 
 **Benefits**
 User-Friendly Interface: Designed to be intuitive and easy to navigate, making note-taking a seamless experience.
